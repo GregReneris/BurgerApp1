@@ -17,3 +17,13 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+
+/* Adding code underneath to format left right and align. */
+.leftside {
+  float:left;
+}
+
+.rightside {
+  float:right; 
+}
