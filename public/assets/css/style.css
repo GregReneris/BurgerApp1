@@ -27,3 +27,16 @@ li {
 .rightside {
   float:right; 
 }
+
+body {
+  background: lightyellow;
+}
+
+.jumbotron {
+  background: cyan;
+}
+/* 
+.burger {
+  height: 300px;
+  width: auto;
+} */
